@@ -1,0 +1,120 @@
+{
+	"groups": [
+		{
+			"keys": "gamescenebg",
+			"name": "preload"
+		},
+		{
+			"keys": "images,right0_png,right0_json,wrong0_png,wrong0_json,wrong1_png,wrong1_json,normal0_png,normal0_json,normal1_png,normal1_json,normal2_png,normal2_json,laba_png,laba_json,right_mp3,wrong_mp3,soundanimation_png,soundanimation_json,bgm_mp3",
+			"name": "resource"
+		}
+	],
+	"resources": [
+		{
+			"url": "gamescenebg.png",
+			"type": "image",
+			"name": "gamescenebg"
+		},
+		{
+			"url": "images.json",
+			"type": "sheet",
+			"name": "images",
+			"subkeys": "cloud,cloud2,cloud3,gameintrobtnover,gameintrobtnup,gameintropanelbg,startbtnover,startbtnup,startscenetitle,wordoneover,wordoneup,wordthreeover,wordthreeup,wordtwoover,wordtwoup"
+		},
+		{
+			"url": "right0.png",
+			"type": "image",
+			"name": "right0_png"
+		},
+		{
+			"url": "right0.json",
+			"type": "json",
+			"name": "right0_json"
+		},
+		{
+			"url": "wrong0.png",
+			"type": "image",
+			"name": "wrong0_png"
+		},
+		{
+			"url": "wrong0.json",
+			"type": "json",
+			"name": "wrong0_json"
+		},
+		{
+			"url": "wrong1.png",
+			"type": "image",
+			"name": "wrong1_png"
+		},
+		{
+			"url": "wrong1.json",
+			"type": "json",
+			"name": "wrong1_json"
+		},
+		{
+			"url": "normal0.png",
+			"type": "image",
+			"name": "normal0_png"
+		},
+		{
+			"url": "normal0.json",
+			"type": "json",
+			"name": "normal0_json"
+		},
+		{
+			"url": "normal1.png",
+			"type": "image",
+			"name": "normal1_png"
+		},
+		{
+			"url": "normal1.json",
+			"type": "json",
+			"name": "normal1_json"
+		},
+		{
+			"url": "normal2.png",
+			"type": "image",
+			"name": "normal2_png"
+		},
+		{
+			"url": "normal2.json",
+			"type": "json",
+			"name": "normal2_json"
+		},
+		{
+			"name": "laba_png",
+			"type": "image",
+			"url": "laba.png"
+		},
+		{
+			"name": "laba_json",
+			"type": "json",
+			"url": "laba.json"
+		},
+		{
+			"name": "right_mp3",
+			"type": "sound",
+			"url": "right.mp3"
+		},
+		{
+			"name": "wrong_mp3",
+			"type": "sound",
+			"url": "wrong.mp3"
+		},
+		{
+			"name": "soundanimation_png",
+			"type": "image",
+			"url": "soundanimation.png"
+		},
+		{
+			"name": "soundanimation_json",
+			"type": "json",
+			"url": "soundanimation.json"
+		},
+		{
+			"name": "bgm_mp3",
+			"type": "sound",
+			"url": "bgm.mp3"
+		}
+	]
+}

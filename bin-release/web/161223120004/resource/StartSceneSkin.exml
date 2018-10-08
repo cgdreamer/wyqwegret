@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StartSceneSkin" width="800" height="600" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="cloudsContainer"/>
+    <e:Image horizontalCenter="0" verticalCenter="0" id="bgImage"/>
+	<e:Label id="version" text="v1.0.0" x="757" y="584" size="11" anchorOffsetX="0" width="36.5"/>
+</e:Skin>

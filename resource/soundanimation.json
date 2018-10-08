@@ -1,0 +1,21 @@
+﻿{
+"mc": {
+	"SoundImageAction": {
+		"frameRate":10,
+		"labels": [
+		],
+		"frames": [
+			{"res":"SoundImageAction0000","x":0,"y":0},
+			{"res":"SoundImageAction0001","x":0,"y":0},
+			{"res":"SoundImageAction0002","x":0,"y":0},
+			{"res":"SoundImageAction0003","x":0,"y":0}
+		]
+	}
+},
+"res": {
+	"SoundImageAction0000":{"x":0,"y":0,"w":30,"h":22},
+	"SoundImageAction0001":{"x":0,"y":22,"w":41,"h":22},
+	"SoundImageAction0002":{"x":0,"y":44,"w":52,"h":22},
+	"SoundImageAction0003":{"x":0,"y":66,"w":30,"h":22}
+}
+}

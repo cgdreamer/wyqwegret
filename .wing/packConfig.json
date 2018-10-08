@@ -1,0 +1,9 @@
+{
+    "maxImageWidth": 2014,
+    "maxImageHeight": 2014,
+    "defaultResPath": "c:\\Users\\Noah_Angel\\Documents\\EgretProjects\\learningWords\\resource\\default.res.json",
+    "packGroups": {
+        "preload": true,
+        "resource": true
+    }
+}
